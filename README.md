@@ -2,7 +2,7 @@
 
 ### CFGS Desenrotllament d'Aplicacions Web Entorns de Desenrotllament
 
-[Enlace a git.md](https://github.com/x3nr1qu3x/x3nr1qu3x/git.md)
+[Enlace a git.md](https://github.com/x3nr1qu3x/x3nr1qu3x/blob/main/git.md)
 
 ---
 
